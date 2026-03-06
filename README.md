@@ -8,5 +8,5 @@ Aranda, D., Fernández-de-Castro, P.; & Sáenz-Leandro, R. (2025). Gamblificatio
 In the Data Folder:
 - Survey Results (csv)
 - Codebook (xls)
-- Survey Questions (pdf - En Espanol)
+- Survey Questions (pdf - En Español)
 - Replication Data (r)
