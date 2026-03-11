@@ -12,5 +12,6 @@ In the Data Folder:
 - Replication Data (r)
 
 Repository Reporting Measures:
-- Metadata (xml)
-- Repository Report (docx)
+- Gamblification Data Folder Metadata (xml)
+- Repository Report (pdf)
+- Readme (txt)
