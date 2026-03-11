@@ -10,3 +10,7 @@ In the Data Folder:
 - Codebook (xls)
 - Survey Questions (pdf - En Español)
 - Replication Data (r)
+
+Repository Reporting Measures:
+- Metadata (xml)
+- Repository Report (docx)
